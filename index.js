@@ -3,4 +3,4 @@ function add({commit}) {
 }
 var total ="88"
 
-add(a)
+
