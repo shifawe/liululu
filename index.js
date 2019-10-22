@@ -1,3 +1,4 @@
 function add({commit}) {
-  commit(instance)
+  return commit(instance)
 }
+var total ="88"
