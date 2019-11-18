@@ -1,2 +1,12 @@
-# resetLess
-为方便编辑一些单面布局
+# base less
+使用方法:
+
+```less
+@import "less/css3";
+@import "less/z";
+
+.reset-sina();
+#yourElement {
+  .clearfix;.abs;.wh(100%);
+}
+```
