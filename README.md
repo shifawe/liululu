@@ -6,7 +6,8 @@
 @import "less/z";
 
 .reset-sina();
-#yourElement {
-  .clearfix;.abs;.wh(100%);
+
+.nav-win {
+  .clearfix; .abs; .wh(100px); top:0; left:0;
 }
 ```
