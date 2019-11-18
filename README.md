@@ -1,5 +1,5 @@
 # base less
-使用方法:
+使用方法 在你的 style.less 中引入:
 
 ```less
 @import "less/css3";
